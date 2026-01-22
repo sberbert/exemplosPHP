@@ -118,6 +118,5 @@ foreach ($alunos as $a) {
   echo "Aluno: " . $a["nome"] . " - Nota: " . $a["nota"] . "<br>";
 }
 ?>
-
 </body>
 </html>
