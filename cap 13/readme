@@ -1,0 +1,16 @@
+Usuarios:
+    sberbert@unicamp.br
+    simone123
+
+    tania@unicamp.br
+    tania123
+
+Refatorar:
+- renomear a index.php para cadastrar.php
+- criar index.php que será o login
+- criar pasta produtos/ e mover todos os arquivos do crud de produtos para ela
+- arrumar o require do config.php para buscar em ../config.php
+- criar o logout.php para ir limpando a session para os testes
+
+- criar o autenticacao.php e fazer o require dele em todas as páginas do crud de produtos
+- exibir nome do usuário e link para logout em listar.php
