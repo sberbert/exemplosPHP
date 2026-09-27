@@ -1,0 +1,10 @@
+27/09/2026 21:36:25 - Cadastro de produto - Usuário ID: 1 - E-mail: sberbert@unicamp.br - Resultado: SUCESSO - Produto: Mouse (ID: 48)
+27/09/2026 21:36:32 - Cadastro de produto - Usuário ID: 1 - E-mail: sberbert@unicamp.br - Resultado: SUCESSO - Produto: Teclado (ID: 49)
+27/09/2026 21:36:41 - Produto excluído: 49 - Usuário ID: 1 - E-mail: sberbert@unicamp.br - Resultado: SUCESSO
+27/09/2026 21:37:05 - Produto excluído: 48 - Usuário ID: 1 - E-mail: sberbert@unicamp.br - Resultado: ERRO
+27/09/2026 22:09:46 - Tentativa de edição do produto: 48 - Usuário ID: 1 - E-mail: sberbert@unicamp.br - Resultado: SUCESSO
+27/09/2026 22:10:44 - Tentativa de edição do produto: 48 - Usuário ID: 1 - E-mail: sberbert@unicamp.br - Resultado: SUCESSO
+27/09/2026 22:11:00 - Tentativa de edição do produto: 48 - Usuário ID: 1 - E-mail: sberbert@unicamp.br - Resultado: ERRO
+27/09/2026 22:11:49 - Produto excluído: 48 - Usuário ID: 1 - E-mail: sberbert@unicamp.br - Resultado: ERRO
+27/09/2026 22:15:34 - Cadastro de produto - Usuário ID: 1 - E-mail: sberbert@unicamp.br - Resultado: SUCESSO - Produto: Mouse (ID: 1)
+27/09/2026 22:15:45 - Cadastro de produto - Usuário ID: 1 - E-mail: sberbert@unicamp.br - Resultado: SUCESSO - Produto: Teclado (ID: 2)

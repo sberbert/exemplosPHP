@@ -1,0 +1,6 @@
+27/09/2026 21:37:05 - Erro ao excluir o produto: 48 - Usuário ID: 1 - E-mail: sberbert@unicamp.br - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'simone.produto' doesn't exist
+27/09/2026 21:41:56 - Erro ao listar produtos - Usuário ID: 1 - E-mail: sberbert@unicamp.br - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FRM produtos WHERE 1=1' at line 1
+27/09/2026 22:11:00 - Erro ao editar o produto: 48 - Usuário ID: 1 - E-mail: sberbert@unicamp.br - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UPATE produtos
+                    SET nome = 'Mouse',
+                        p' at line 1
+27/09/2026 22:11:49 - Erro ao excluir o produto: 48 - Usuário ID: 1 - E-mail: sberbert@unicamp.br - SQLSTATE[42S02]: Base table or view not found: 1146 Table 'simone.produto' doesn't exist
